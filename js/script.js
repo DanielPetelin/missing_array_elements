@@ -1,4 +1,4 @@
-var mas = [-40, 23, -23];
+var mas = [-40, 23, 232];
 var result = [];
 var max = mas.length;
 
