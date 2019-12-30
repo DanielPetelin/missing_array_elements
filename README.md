@@ -13,6 +13,7 @@
     <script src="./js/script.js"></script>
 </body>
 </html>
+
 ```
 <h3>JavaScript</h3>
 ```var mas = [40, -23, 83];
@@ -30,4 +31,5 @@ if (mas[0] < mas[max - 1]) {
 }
 
 console.log(result);
+
 ```
