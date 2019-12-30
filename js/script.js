@@ -1,13 +1,13 @@
-var mas = [40, -16];
+var mas = [40, 916];
 var result = [];
-max = mas.length;
+var max = mas.length;
 
 if (mas[0] < mas[1]) {
-    for (var i = mas[0]; i <= mas[1]; i++) {
+    for (var i = mas[0]; i <= mas[mas.length - 1]; i++) {
         result.push(i);
     }
 } else {
-    for (var i = mas[0]; i >= mas[1]; i--) {
+    for (var i = mas[0]; i >= mas[mas.length - 1]; i--) {
         result.push(i);
     }
 }
