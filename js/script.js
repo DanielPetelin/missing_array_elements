@@ -1,4 +1,4 @@
-var mas = [4, 16];
+var mas = [-4, 16];
 var result = [];
 
 for (var i = mas[0]; i <= mas[1]; i++) {
