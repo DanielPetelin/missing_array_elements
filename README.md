@@ -1,6 +1,7 @@
 <h1>New function</h1>
 <h2>Код</h2>
 <h3>HTML</h3>
+
 ```<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,8 +14,10 @@
     <script src="./js/script.js"></script>
 </body>
 </html>
+
 ```
 <h3>JavaScript</h3>
+
 ```var mas = [40, -23, 83];
 var result = [];
 var max = mas.length;
@@ -30,4 +33,5 @@ if (mas[0] < mas[max - 1]) {
 }
 
 console.log(result);
+
 ```
