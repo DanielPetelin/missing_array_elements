@@ -1,5 +1,5 @@
 <h1>New function</h1>
-<h2>Код</h2>
+<h2>Code</h2>
 <h3>HTML</h3>
 
 ```
